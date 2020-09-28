@@ -1,2 +1,2 @@
 # Gradient Descent Optimization Algorithms in Neural Network
-## Spring2019 Gatech ECE6254 Statistical Machine Learing - Final Project
+## Final Project for Gatech ECE 6254 - Statistical Machine Learing (Spring 2019)
